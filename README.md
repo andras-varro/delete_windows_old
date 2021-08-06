@@ -5,7 +5,7 @@ For full functionality this script has to be started in an administrative comman
 
 Usage
 -----
-1. Start and administrative prompt [How-to](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
+1. Start and administrative prompt: [How to start administrative prompt](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
 2. Start the script:
 ```
 DelWindowsOldFolder.bat [your_folder_path]
